@@ -1,0 +1,7 @@
+C:\Users\Xavi Sbert\source\repos\ReviewExercises\ReviewExercises\bin\Debug\ReviewExercises.exe.config
+C:\Users\Xavi Sbert\source\repos\ReviewExercises\ReviewExercises\bin\Debug\ReviewExercises.exe
+C:\Users\Xavi Sbert\source\repos\ReviewExercises\ReviewExercises\bin\Debug\ReviewExercises.pdb
+C:\Users\Xavi Sbert\source\repos\ReviewExercises\ReviewExercises\obj\Debug\ReviewExercises_foreach.csprojAssemblyReference.cache
+C:\Users\Xavi Sbert\source\repos\ReviewExercises\ReviewExercises\obj\Debug\ReviewExercises_foreach.csproj.CoreCompileInputs.cache
+C:\Users\Xavi Sbert\source\repos\ReviewExercises\ReviewExercises\obj\Debug\ReviewExercises.exe
+C:\Users\Xavi Sbert\source\repos\ReviewExercises\ReviewExercises\obj\Debug\ReviewExercises.pdb

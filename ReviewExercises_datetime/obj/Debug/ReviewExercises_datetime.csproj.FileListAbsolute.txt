@@ -1,0 +1,7 @@
+C:\Users\Xavi Sbert\source\repos\ReviewExercises\ReviewExercises_datetime\bin\Debug\ReviewExercises_datetime.exe.config
+C:\Users\Xavi Sbert\source\repos\ReviewExercises\ReviewExercises_datetime\bin\Debug\ReviewExercises_datetime.exe
+C:\Users\Xavi Sbert\source\repos\ReviewExercises\ReviewExercises_datetime\bin\Debug\ReviewExercises_datetime.pdb
+C:\Users\Xavi Sbert\source\repos\ReviewExercises\ReviewExercises_datetime\obj\Debug\ReviewExercises_datetime.csprojAssemblyReference.cache
+C:\Users\Xavi Sbert\source\repos\ReviewExercises\ReviewExercises_datetime\obj\Debug\ReviewExercises_datetime.csproj.CoreCompileInputs.cache
+C:\Users\Xavi Sbert\source\repos\ReviewExercises\ReviewExercises_datetime\obj\Debug\ReviewExercises_datetime.exe
+C:\Users\Xavi Sbert\source\repos\ReviewExercises\ReviewExercises_datetime\obj\Debug\ReviewExercises_datetime.pdb
